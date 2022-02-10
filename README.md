@@ -29,7 +29,7 @@ Download all arquives project and use in IDE that you to prefer. You need to set
 
 Please. Thank you for your question. If you interested in my project contact me.
 
-## 📌 Versão
+## 📌 Version
 <p>JAVA 11</p>
 <p>Postaman v9.13.1</p>
 <p>SPringboot 2.6 </p>
