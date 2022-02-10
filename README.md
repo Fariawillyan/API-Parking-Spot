@@ -3,7 +3,7 @@
 # API-Parking-Spot
 
 ## 🚀 API with CRUD
-The API have been create to understand all structure of the universe Restful. It's important the knowledge to insert the methods CRUD and implementations. The project is a basic controler simulation the parking spot.
+The API have been create to understand all architecture of the universe Restful. It's important the knowledge to insert the methods CRUD and implementations. The project is a basic controler simulation the parking spot.
 
 
 ## 🔧 Installations
